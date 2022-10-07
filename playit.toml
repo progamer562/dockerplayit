@@ -5,7 +5,7 @@ control_address = "control.playit.gg"
 refresh_from_api = true
 api_refresh_rate = 5000
 ping_interval = 5000
-secret_key = "30d484c19cc049b1e95c65bb55ed18cd575050c77fb28469b278d3d02f0dd43f"
+secret_key = "demo"
 
 [[mappings]]
 proto = "tcp"
