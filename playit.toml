@@ -9,7 +9,7 @@ secret_key = "demo"
 
 [[mappings]]
 proto = "tcp"
-tunnel_ip = "147.185.221.180"
-tunnel_from_port = 60277
-local_ip = "101.100.136.143"
-local_port = 2560
+tunnel_ip = "demo"
+tunnel_from_port = demo
+local_ip = "demo"
+local_port = demo
